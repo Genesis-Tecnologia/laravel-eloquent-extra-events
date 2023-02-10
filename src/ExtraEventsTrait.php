@@ -1,6 +1,6 @@
 <?php
 
-namespace NeylsonGularte\EloquentExtraEvents;
+namespace GenesisTecnologia\LaravelEloquentExtraEvents;
 
 
 // Trait for models

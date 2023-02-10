@@ -1,6 +1,6 @@
 <?php
 
-namespace NeylsonGularte\EloquentExtraEvents;
+namespace GenesisTecnologia\LaravelEloquentExtraEvents;
 
 use Illuminate\Database\Eloquent\Relations\BelongsToMany as BelongsToManyEloquent;
 use Illuminate\Database\Eloquent\Collection;

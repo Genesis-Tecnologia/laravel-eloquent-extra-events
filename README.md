@@ -1,27 +1,27 @@
 # eloquent-extra-events
 
-[![Total Downloads](https://poser.pugx.org/neylsongularte/eloquent-extra-events/downloads)](https://packagist.org/packages/neylsongularte/eloquent-extra-events)
-[![Monthly Downloads](https://poser.pugx.org/neylsongularte/eloquent-extra-events/d/monthly)](https://packagist.org/packages/neylsongularte/eloquent-extra-events)
-[![Daily Downloads](https://poser.pugx.org/neylsongularte/eloquent-extra-events/d/daily)](https://packagist.org/packages/neylsongularte/eloquent-extra-events)
-[![Latest Stable Version](https://poser.pugx.org/neylsongularte/eloquent-extra-events/v/stable)](https://packagist.org/packages/neylsongularte/eloquent-extra-events)
-[![Latest Unstable Version](https://poser.pugx.org/neylsongularte/eloquent-extra-events/v/unstable)](https://packagist.org/packages/neylsongularte/eloquent-extra-events)
-[![License](https://poser.pugx.org/neylsongularte/eloquent-extra-events/license)](https://packagist.org/packages/neylsongularte/eloquent-extra-events)
+[![Total Downloads](https://poser.pugx.org/genesistecnologia/eloquent-extra-events/downloads)](https://packagist.org/packages/genesistecnologia/eloquent-extra-events)
+[![Monthly Downloads](https://poser.pugx.org/genesistecnologia/eloquent-extra-events/d/monthly)](https://packagist.org/packages/genesistecnologia/eloquent-extra-events)
+[![Daily Downloads](https://poser.pugx.org/genesistecnologia/eloquent-extra-events/d/daily)](https://packagist.org/packages/genesistecnologia/eloquent-extra-events)
+[![Latest Stable Version](https://poser.pugx.org/genesistecnologia/eloquent-extra-events/v/stable)](https://packagist.org/packages/genesistecnologia/eloquent-extra-events)
+[![Latest Unstable Version](https://poser.pugx.org/genesistecnologia/eloquent-extra-events/v/unstable)](https://packagist.org/packages/genesistecnologia/eloquent-extra-events)
+[![License](https://poser.pugx.org/genesistecnologia/eloquent-extra-events/license)](https://packagist.org/packages/genesistecnologia/eloquent-extra-events)
 
 Install:
 
 ```
 For 5.2.x, 5.3.x and 5.4.x:
-composer require neylsongularte/eloquent-extra-events:0.3.5
+composer require genesistecnologia/eloquent-extra-events:0.3.5
 ```
 
 ```
 For 5.5.x:
-composer require neylsongularte/eloquent-extra-events
+composer require genesistecnologia/eloquent-extra-events
 ```
 
 In your model:
 
-`use NeylsonGularte\EloquentExtraEvents\ExtraEventsTrait;`
+`use GenesisTecnologia\LaravelEloquentExtraEvents\ExtraEventsTrait;`
 
 Events:
   * eloquent.syncing
