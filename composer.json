@@ -1,5 +1,5 @@
 {
-    "name": "GenesisTecnologia/laravel-eloquent-extra-events",
+    "name": "genesis-tecnologia/laravel-eloquent-extra-events",
     "description": "Eventos adicionais para o eloquent",
     "require": {
         "php": ">=5.5.9"
